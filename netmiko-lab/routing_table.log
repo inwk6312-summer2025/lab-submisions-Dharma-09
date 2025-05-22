@@ -1,0 +1,140 @@
+2025-05-22 14:44:43,851 - ERROR - Error collecting routing table from R1: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.14.1:22
+
+
+2025-05-22 14:44:53,862 - ERROR - Error collecting routing table from R2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.12.2:22
+
+
+2025-05-22 14:45:03,873 - ERROR - Error collecting routing table from R3: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.13.3:22
+
+
+2025-05-22 14:48:47,283 - ERROR - Error collecting routing table from R1: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.14.1:22
+
+
+2025-05-22 14:48:57,291 - ERROR - Error collecting routing table from R2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.12.2:22
+
+
+2025-05-22 14:49:07,295 - ERROR - Error collecting routing table from R3: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.13.3:22
+
+
+2025-05-22 14:49:17,306 - ERROR - Error collecting routing table from R4: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.14.4:22
+
+
+2025-05-22 14:50:40,229 - ERROR - Error collecting routing table from R1: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.14.1:22
+
+
+2025-05-22 14:50:50,239 - ERROR - Error collecting routing table from R2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.12.2:22
+
+
+2025-05-22 14:51:00,250 - ERROR - Error collecting routing table from R3: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.13.3:22
+
+
+2025-05-22 14:52:38,165 - ERROR - Error collecting routing table from R1: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.14.1:22
+
+
+2025-05-22 14:52:48,172 - ERROR - Error collecting routing table from R2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.12.2:22
+
+
+2025-05-22 14:52:58,183 - ERROR - Error collecting routing table from R3: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.13.3:22
+
+
+2025-05-22 14:53:08,194 - ERROR - Error collecting routing table from R4: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 150.1.14.4:22
+
+

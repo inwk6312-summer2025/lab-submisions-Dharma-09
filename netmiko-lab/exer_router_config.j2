@@ -1,0 +1,14 @@
+hostname {{ hostname }}
+
+interface Loopback0
+ ip address {{ loopback.Lo0 }} 255.255.255.255
+
+{% for intf, details in interfaces.items() %}
+interface {{ intf }}
+ ip address {{ details.ip }} {{ details.subnet }}
+ no shutdown
+{% endfor %}
+
+router ospf 1
+ router-id {{ loopback.Lo0 }}
+ network 150.1.0.0 0.0.255.255 area 0
