@@ -1,0 +1,29 @@
+- name: G1.12
+  desc: Link to R2
+  vlan: 10
+  uplink: true
+
+- name: G1.13
+  desc: Link to R3
+  vlan: 20
+  uplink: true
+
+- name: G1.2
+  desc: Link to V2
+  vlan: 30
+  uplink: false
+
+- name: G1.241
+  desc: Link to R4
+  vlan: 40
+  uplink: true
+
+- name: V12
+  desc: VIRTUAL LINK TO R2
+  vlan: 50
+  uplink: false
+
+- name: V13
+  desc: VIRTUAL LINK TO R3
+  vlan: 60
+  uplink: false
